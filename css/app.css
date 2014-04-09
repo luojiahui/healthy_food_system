@@ -1,0 +1,57 @@
+ /*global css*/
+.tx-a-c{
+	text-align: center;
+}
+.f-l{
+	float: left;
+}
+
+
+/*module css*/
+
+.tpl_nav{
+	text-align: center;
+	border: 1px solid #f2f0f0;
+}
+.tpl_header{
+	height: 100px;
+	padding-bottom: 31px;
+	border-bottom: 1px solid #dddbdb;
+	box-shadow: 0 1px 5px #ccc;
+}
+.tpl_logo_img{
+	height: 130px;
+	width: 250px;
+}
+.tpl_message{
+	margin-top: 40px;
+	text-align: center;
+	background: url(../image/line.png) left center repeat-x;
+}
+
+.tpl_portrait{
+	float: left;
+	margin: 10px 0 0 60px;
+	border: 3px solid #eaeaea;
+}
+.tpl_word{
+	padding: 0 60px 0 150px;
+	font-size: 14px;
+	line-height: 30px;
+	font-style: italic;
+}
+
+/*app css*/
+.b-c-5f {
+	background-color: #5fa022;
+}
+.b-c-f2 {
+	background-color: #f2f0f0;
+}
+.h-80-p{
+	height: 80px;
+}
+.m-t-20-p{
+	margin-top: 35px;
+}
+/*end app
